@@ -73,4 +73,5 @@ spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.2.3 spark_b
 
 ## VIDEO DEMO FOR THE PROJECT
 [Click Here](https://drive.google.com/file/d/1wYFdPQdTxnwrj0D6Nqrq3JfXimvoVCvb/view?usp=sharing)
+<br>
 ```NOTE:``` Please feel free to suggest any corrections or feedbacks.
